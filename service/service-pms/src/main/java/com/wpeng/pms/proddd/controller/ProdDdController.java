@@ -20,7 +20,7 @@ import java.util.List;
  * 【管理-生产调度-控制层】
  */
 @RestController // 包含了 @Controller  和  @ResponseBody
-@RequestMapping("/pms/proddd")
+@RequestMapping("/pms/prodDd")
 @Api(tags = "【管理-生产调度-控制层】")
 public class ProdDdController {
 
